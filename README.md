@@ -1,12 +1,59 @@
-# React + Vite
+# React User Card 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive user card interface built using **React**. This app showcases multiple user profiles with key details like name, location, description, skills, and online status.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here to view](https://profile-card-sample.vercel.app/)  
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Developed By  
+**Gayathri G**  
+GitHub: [@GAYATHRI1006](https://github.com/GAYATHRI1006)
+
+## Screenshot
+
+![User Card App Screenshot](profile1.png)
+
+![User Card App Screenshot](profile2.png)
+
+![User Card App Screenshot](profile3.png)
+
+
+
+## Features
+
+- Displays multiple user cards with details  
+- Shows dynamic online/offline badge  
+- Skills displayed as a list  
+- Buttons for UI interaction  
+- Uses `props` and dynamic rendering via `map`  
+- Clean and attractive card layout
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/GAYATHRI1006/Digital_Clock_using_React.git
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
+
+## Tech Stack
+
+- **React**
+- **JavaScript**
+- **HTML5**
+- **CSS3**          
+
